@@ -1,0 +1,1 @@
+/Users/kevindial/dev/FeelTrip folder/ionicSparow/www, -/Users/kevindial/dev/FeelTrip folder/ionicSparow/www/lib/*, -*.css
